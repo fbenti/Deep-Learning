@@ -1,0 +1,20 @@
+--2022-12-25 11:30:41--  https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-CV0101EN-SkillsNetwork/images%20/images_part_1/lenna.png
+Resolving cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud (cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud)... 169.63.118.104
+Connecting to cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud (cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud)|169.63.118.104|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 473831 (463K) [image/png]
+Saving to: ‘img/lenna.png’
+
+     0K .......... .......... .......... .......... .......... 10%  257K 2s
+    50K .......... .......... .......... .......... .......... 21%  122K 2s
+   100K .......... .......... .......... .......... .......... 32%  244K 2s
+   150K .......... .......... .......... .......... .......... 43%  378K 1s
+   200K .......... .......... .......... .......... .......... 54% 1.18M 1s
+   250K .......... .......... .......... .......... .......... 64%  572K 1s
+   300K .......... .......... .......... .......... .......... 75% 6.82M 0s
+   350K .......... .......... .......... .......... .......... 86% 1.40M 0s
+   400K .......... .......... .......... .......... .......... 97%  563K 0s
+   450K .......... ..                                         100%  108M=1.2s
+
+2022-12-25 11:30:43 (385 KB/s) - ‘img/lenna.png’ saved [473831/473831]
+
